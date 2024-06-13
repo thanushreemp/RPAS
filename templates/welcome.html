@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VAJRAKSH</title>
+</head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: rgba(6, 6, 1, 0.155)
+}
+
+.img img{
+    filter: drop-shadow(10px 10px 20px rgba(0,0,0,0.2));
+    -webkit-filter: drop-shadow(10px 10px 20px rgba(0,0,0,0.2));
+    animation: img 5s infinite;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+@keyframes img{
+    0%,
+    100%{
+        transform: translateY(0);
+    }
+    25%{
+        transform: translateY(-20px);
+    }
+    75%{
+        transform: translateY(20px);
+    }
+}
+
+.btn{
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    background-color: rgba(11, 23, 25, 0.188);
+}
+</style>
+<body>
+    <div class="img">
+        <img src="/images/header.png" alt="image">
+    </div>
+    <a href="index.html"><button class="btn">It's Fly time</button></a>
+</body>
+</html>
