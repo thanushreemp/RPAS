@@ -13,34 +13,34 @@ Technologies Used
 Hardware:
 
 ## Drone Frame
--Flight Controller (SpeedyBee F405 Wing)
--Radio Transmitter and Receiver
--Brushless Motors (CW and CCW)
--Raspberry Pi 4
--5000mAh Battery
--Propellers
--Camera (Raspberry Pi Camera Module)
+- Flight Controller (SpeedyBee F405 Wing)
+- Radio Transmitter and Receiver
+- Brushless Motors (CW and CCW)
+- Raspberry Pi 4
+- 5000mAh Battery
+- Propellers
+- Camera (Raspberry Pi Camera Module)
 
 ## Software Components:
--Betaflight Configurator
--Raspberry Pi OS
--HTML, CSS, JavaScript
--Python
--Autodesk Fusion 360
--System Components
+- Betaflight Configurator
+- Raspberry Pi OS
+- HTML, CSS, JavaScript
+- Python
+- Autodesk Fusion 360
+- System Components
 
 ## Hardware
-Drone Body: X-style frame housing rotors, battery, and camera.
-Flight Controller: SpeedyBee F405 Wing with built-in IMU, barometer, and OSD chip.
-Radio Controller: Essential for transmitting commands to the drone.
-Motors: High RPM brushless motors for stable flight.
-Raspberry Pi 4: Single-board computer for processing and control.
-Battery: 5000mAh power source for all electronics.
-Propellers: Aerodynamically designed for thrust and stability.
-Camera: High-resolution Raspberry Pi Camera Module.
+- Drone Body: X-style frame housing rotors, battery, and camera.
+- Flight Controller: SpeedyBee F405 Wing with built-in IMU, barometer, and OSD chip.
+- Radio Controller: Essential for transmitting commands to the drone.
+- Motors: High RPM brushless motors for stable flight.
+- Raspberry Pi 4: Single-board computer for processing and control.
+- Battery: 5000mAh power source for all electronics.
+- Propellers: Aerodynamically designed for thrust and stability.
+- Camera: High-resolution Raspberry Pi Camera Module.
 ## Software
-Betaflight Configurator: For tuning and configuring the flight controller.
-Raspberry Pi OS: Operating system for the onboard computer.
-Web Technologies: HTML, CSS, JavaScript for the web interface development.
-Python: For scripting and integration tasks.
-Fusion 360: For 3D modeling and design.
+- Betaflight Configurator: For tuning and configuring the flight controller.
+- Raspberry Pi OS: Operating system for the onboard computer.
+- Web Technologies: HTML, CSS, JavaScript for the web interface development.
+- Python: For scripting and integration tasks.
+- Fusion 360: For 3D modeling and design.
